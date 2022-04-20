@@ -33,6 +33,12 @@
     background-size: cover;
 }
 
+.slider-room{
+    background-image: url(../img/gallery/hyatt.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+
 
 .slider-area{
     background-image: url(../img/hero/homeHero_1.jpg);
@@ -191,6 +197,20 @@
 
 // Another Hero Page
 .slider-area2{
+    .hero-cap{
+        position: relative;
+        z-index: 1;
+        & h2{
+            color: #fff;
+            font-size: 50px;
+            font-weight: 700;
+            text-transform: capitalize;
+        }
+    }
+}
+
+// Another Hero Page
+.slider-room{
     .hero-cap{
         position: relative;
         z-index: 1;
