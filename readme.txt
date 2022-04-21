@@ -1,8 +1,20 @@
-Thank you for using our template!
+Proyecto creado para la boda de Damian & Sthefani, 03 de Setiembre 2022.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Para descargar el proyecto por https: git clone https://github.com/d-bozz/my_wedding.git
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Para descargar por SSH: git clone git@github.com:d-bozz/my_wedding.git
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+#Construido con 🛠️
+* CSS
+* SCSS
+* HTML
+* Javascript
+
+#Versionado 📌 
+Se utilizo Github para mantener el versionado.
+
+#Autor ✒️ 
+Damian Boz.
+
+Template extraido de:
+https://colorlib.com/wp/templates/

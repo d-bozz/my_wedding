@@ -326,7 +326,6 @@ hr {
 }
 .owl-carousel:hover .owl-nav div:hover {
   color: #fff;
-  background: #ff3500;
 }
 .btn {
   background: #3609d8;
@@ -476,7 +475,6 @@ hr {
 .send-btn:hover::before {
   transform: scaleY(1);
   order: 2px solid transparent;
-  color: red;
 }
 .breadcrumb > .active {
   color: #888;
@@ -1869,8 +1867,7 @@ hr {
   }
 }
 .footer-padding {
-  padding-top: 135px;
-  padding-bottom: 74px;
+  padding-top: 50px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer-padding {
@@ -2200,7 +2197,7 @@ hr {
   font-family: "Barlow", sans-serif;
   position: relative;
   display: inline-block;
-  padding-left: 50px;
+  padding-left: 0px;
   line-height: 2.1;
   letter-spacing: 0.3em;
   position: relative;
@@ -2984,14 +2981,7 @@ hr {
   text-decoration: none;
   transition: 0.4s;
 }
-.blog_area a:hover,
-.blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #ff2828 0%, #ff2828 99%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-decoration: none;
-  transition: 0.4s;
-}
+
 .single-blog {
   overflow: hidden;
   margin-bottom: 30px;
@@ -3362,9 +3352,7 @@ hr {
 .blog_details a {
   color: #242b5e;
 }
-.blog_details a:hover {
-  color: #ff2828;
-}
+
 .blog_details h2 {
   font-size: 18px;
   font-weight: 600;
@@ -3411,11 +3399,10 @@ hr {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #ff2828;
+  background-color: #3609d8;
   padding: 8px 15px;
   border-radius: 5px;
 }
-
 @media (min-width: 768px) {
   .blog_item_img .blog_item_date {
     bottom: -20px;
@@ -3753,9 +3740,6 @@ hr {
 .single-post-area .blog-author a {
   display: inline-block;
 }
-.single-post-area .blog-author a:hover {
-  color: #ff2828;
-}
 .single-post-area .blog-author p {
   margin-bottom: 0;
   font-size: 15px;
@@ -3832,12 +3816,7 @@ hr {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
 }
-.single-post-area .navigation-area .nav-right:hover .lnr {
-  opacity: 1;
-}
-.single-post-area .navigation-area .nav-right:hover .thumb img {
-  opacity: 0.5;
-}
+
 @media (max-width: 991px) {
   .single-post-area .sidebar-widgets {
     padding-bottom: 0px;
