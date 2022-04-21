@@ -2577,7 +2577,7 @@ hr {
   position: absolute;
   bottom: 0;
   align-items: end;
-  background: #e72526;
+  background: #3609d8;
   display: flex;
   padding: 32px 97px 32px 40px;
   opacity: 0;
@@ -2639,7 +2639,7 @@ hr {
 }
 .gallery-area .single-gallery .thumb-content-box .thumb-content a:hover {
   background: #fff;
-  color: #ff0000;
+  color: #3609d8;
 }
 .single-gallery:hover .thumb-content-box .thumb-content {
   opacity: 1;
@@ -3415,6 +3415,7 @@ hr {
   padding: 8px 15px;
   border-radius: 5px;
 }
+
 @media (min-width: 768px) {
   .blog_item_img .blog_item_date {
     bottom: -20px;
