@@ -2053,6 +2053,8 @@ hr {
 }
 .main-header .main-menu ul li:hover > a {
   color: #041e3a;
+  border-bottom: 1px solid #041e3a;
+  padding-bottom: 2px;
 }
 
 .main-header .main-menu ul ul.submenu {
@@ -2932,7 +2934,8 @@ hr {
 }
 .footer-area .footer-tittle ul li a:hover {
   padding-left: 5px;
-  color: #ff0000;
+  border-bottom: 1px solid #cfcfcf;
+  padding-bottom: 3px;
 }
 .footer-bottom-area .footer-border {
   border-top: 1px solid #26282c;
