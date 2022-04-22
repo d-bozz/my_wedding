@@ -2179,13 +2179,13 @@ hr {
 }
 .slider-area2 {
   background-image: url(../img/hero/hero2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 .slider-room {
   background-image: url(../img/gallery/hyatt.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:auto;
 }
 .slider-area {
   background-image: url(../img/hero/homeHero_1.jpg);
@@ -2227,7 +2227,6 @@ hr {
   left: 0;
   bottom: 0;
   top: 0;
-  background-image: url(../img/hero/hero_shape1.png);
   width: 36px;
   height: 45px;
   background-repeat: no-repeat;
@@ -2248,7 +2247,6 @@ hr {
   position: absolute;
   right: 34px;
   top: -17px;
-  background-image: url(../img/hero/hero_shape2.png);
   width: 80px;
   height: 84px;
   background-repeat: no-repeat;
@@ -2598,7 +2596,6 @@ hr {
   position: absolute;
   right: 0;
   bottom: 0;
-  background-image: url(../img/gallery/shape1.png);
   width: 108px;
   height: 61px;
   background-repeat: no-repeat;

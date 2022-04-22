@@ -231,12 +231,6 @@
         });
       }
       
-/* 14. counterUp*/
-    $('.counter').counterUp({
-      delay: 10,
-      time: 3000
-    });
-
   //Another popUp     
         var popUp = $('.menorie-icon');
         if(popUp.length){
