@@ -2118,14 +2118,14 @@ hr {
   top: -21px;
 }
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: red !important;
+  background-color: #041e3a !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav {
   margin-top: 24px !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #ff2828;
+  color: #041e3a;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a {
   font-size: 15px;

@@ -1,4 +1,4 @@
-Proyecto creado para la boda de Damian & Sthefani, 03 de Setiembre 2022.
+Proyecto creado para la boda de Damian & Sthefani, 03 de diciembre 2022.
 
 Para descargar el proyecto por https: git clone https://github.com/d-bozz/my_wedding.git
 
