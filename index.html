@@ -264,7 +264,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="form-wrapper" >
-                        <form id="contact-form" action="#" method="POST">
+                        <form id="contact-form" action="https://formsubmit.co/d-bozz@hotmail.com" method="POST">
                             <!-- section tittle -->
                             <div class="row ">
                                 <div class="col-lg-12">
@@ -276,17 +276,20 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-box mb-30">
-                                        <input type="text" name="name" placeholder="Nombre">
+                                        <input type="text" name="name" placeholder="Nombre" required>
+                                        <input type="hidden" name="_next" value="http://127.0.0.1:5500/thanks.html">
+                                        <input type="hidden" name="_subject" value="Formulario de la boda">
+                                        <input type="hidden" name="_captcha" value="false">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 mb-30">
                                     <div class="select-itms">
                                         <select name="menu" id="select2">
-                                            <option value="">Menú</option>
-                                            <option value="">Clasico</option>
-                                            <option value="">Vegetariano</option>
-                                            <option value="">Vegano</option>
-                                            <option value="">Celíaco</option>
+                                            <option value="Menú">Menú</option>
+                                            <option value="Clasico">Clasico</option>
+                                            <option value="Vegetariano">Vegetariano</option>
+                                            <option value="Vegano">Vegano</option>
+                                            <option value="Celíaco">Celíaco</option>
                                         </select>
                                     </div>
                                 </div>
