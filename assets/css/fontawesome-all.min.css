@@ -1188,6 +1188,9 @@
 .fa-glass-martini:before {
   content: "\f000";
 }
+.fa-glass-cheers:before {
+  content: "\f79f";
+}
 .fa-glide:before {
   content: "\f2a5";
 }
