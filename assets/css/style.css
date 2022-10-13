@@ -1887,13 +1887,11 @@ hr {
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-padding {
-    padding-top: 100px;
     padding-bottom: 0px;
   }
 }
 @media (max-width: 575px) {
   .footer-padding {
-    padding-top: 100px;
     padding-bottom: 0px;
   }
 }
@@ -2930,7 +2928,7 @@ hr {
 }
 .footer-bottom-area .footer-border {
   border-top: 1px solid #26282c;
-  padding: 33px 0px 33px;
+  padding: 0px 0px 1px;
 }
 .footer-bottom-area .footer-copy-right p {
   font-weight: 300;
@@ -4574,13 +4572,14 @@ del {
 }
 .progress-table .country {
   width: 28.07%;
+  padding-left: 10%;
 }
 .progress-table .visit {
   width: 19.74%;
+  padding-left: 10%;
 }
 .progress-table .percentage {
-  width: 40.36%;
-  padding-right: 40px;
+  padding-left: 15%;
 }
 .progress-table .table-head {
   display: flex;
