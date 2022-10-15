@@ -2426,8 +2426,8 @@ hr {
 }
 @media (max-width: 575px) {
   .Our-story-area .story-caption .story-details {
-    padding-left: 94px;
-    padding-right: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 .Our-story-area .story-caption .story-details h4 {
@@ -2453,8 +2453,8 @@ hr {
 }
 @media (max-width: 575px) {
   .Our-story-area .story-caption.background-img {
-    width: 291px;
-    height: 395px;
+    width: 320px;
+    height: 660px;
   }
 }
 .pricing-card-area .single-card {
